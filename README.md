@@ -17,7 +17,7 @@ This mini project allows users to add, mark as completed, and delete tasks in a 
 
 ## 🖥️ How to Run
 1. Clone this repository:
-   git clone https://github.com/your-username/todo-list.git  
+   git clone https://github.com/BalaSaiKumarVemula/To-Do-List.git  
 2. Open the project folder.  
 3. Run `index.html` in your browser.  
 
